@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evazelenka&hide=python,jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evazelenka&hide=python,jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
