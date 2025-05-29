@@ -1,3 +1,5 @@
+# Hi there, I'm [Eval]() ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### 🌱 I’m currently learning Java
 <!--
 **evazelenka/evazelenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
