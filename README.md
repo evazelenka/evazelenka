@@ -1,5 +1,5 @@
 # Hi there, I'm [Eva](https://daniilshat.ru/)!
-### 🌱 I’m currently learning Java
+### I'm Java Junior Developer from Russia.
 <!--
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Eva</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
